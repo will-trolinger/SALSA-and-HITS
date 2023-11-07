@@ -21,4 +21,4 @@ The results found were quite unique and can be interpreted from many different p
 
 ### This is an image generated from HITS:
 
-![HITS](/HITSOUTput.jpg)  
+![HITS](/HITSOutput.jpg)  
