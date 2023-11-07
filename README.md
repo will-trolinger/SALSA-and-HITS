@@ -5,8 +5,7 @@ This repository contains the Python code to perform network analysis on maternal
 ## How to Use
 
 1. Install the required packages from `requirements.txt`:
-
-## pip install -r requirements.txt
+pip install -r requirements.txt
 
 2. Prepare your dataset to have at least two columns: `OC_County_FIPS` and `MR_County_FIPS`.
 
