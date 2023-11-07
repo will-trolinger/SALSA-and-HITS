@@ -1,6 +1,6 @@
 # SALSA-and-HITS
 
-This repository contains the Python code to perform network analysis on maternal care data using SALSA and HITS algorithms. The analysis aims to identify hub counties and authoritative counties in the context of maternal care based on the birth occurrence and mother's residence data. The input consisted of natality data from https://www.cdc.gov/nchs/nvss/birth_methods.htm (confidential data must be requested), from the years analyzed (2014-2020) there were over 20 million records. Both algorithms were tested, but were found to generate similar results.
+This repository contains the Python code to perform network analysis on maternal care data using SALSA and HITS algorithms. The analysis aims to identify hub counties and authoritative counties in the context of maternal care based on the birth occurrence and mother's residence data. The input consisted of natality data from https://www.cdc.gov/nchs/nvss/birth_methods.htm (confidential data must be requested), from the years observed (2014-2020) there were over 20 million records used in this analysis. Both algorithms were tested, but were found to generate similar results.
 
 ## How to Use
 
