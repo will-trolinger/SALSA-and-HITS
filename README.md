@@ -22,3 +22,5 @@ The results found were quite unique and can be interpreted from many different p
 ### This is an image generated from HITS:
 
 ![HITS](/HITSOutput.jpg)  
+
+_Note: The image was generated using ArcGIS, and this code does not contain the steps for this._
