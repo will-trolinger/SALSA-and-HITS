@@ -19,9 +19,12 @@ The code is designed to work with a confidential dataset and as such does not in
 
 The results found were quite unique and can be interpreted from many different presepctives.
 
-### This is an image generated from HITS:
+### These are some images generated from HITS:
 
 ![HITS](/HITSOutput.jpg)  
+![Importers](/HITSOutput.jpg)  
+![Exporters](/HITSOutput.jpg)  
+
 
 _Note: The image was generated using ArcGIS, and this code does not contain the steps for this._
 
