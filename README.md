@@ -26,6 +26,6 @@ The results found were quite unique and can be interpreted from many different p
 ![Exporters](/Importers.jpg)  
 
 
-_Note: The image was generated using ArcGIS, and this code does not contain the steps for this._
+_Note: The images were generated using ArcGIS, and this code does not contain the steps for this._
 
 
