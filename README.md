@@ -15,10 +15,7 @@ The code is designed to work with a confidential dataset and as such does not in
 
 2. Prepare your dataset to have at least two columns: `OC_County_FIPS` and `MR_County_FIPS` (destination, source) Can use code to generate Mock Data (it has also been uploaded):
    ```
-   mock_data = pd.DataFrame({
-   'OC_County_FIPS': np.random.choice(fips_codes, size=100),
-   'MR_County_FIPS': np.random.choice(fips_codes, size=100),
-   })
+     mock_data = pd.DataFrame({'OC_County_FIPS': np.random.choice(fips_codes, size=100), 'MR_County_FIPS': np.random.choice(fips_codes, size=100)})
    ```
 
 4. Create Graph from sources and destinations:
