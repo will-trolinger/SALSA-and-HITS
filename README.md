@@ -22,8 +22,8 @@ The results found were quite unique and can be interpreted from many different p
 ### These are some images generated from HITS:
 
 ![HITS](/HITSOutput.jpg)  
-![Importers](/Picture1.jpg)  
-![Exporters](/Importers.jpg)  
+![Exporters](/Exporters.jpg)  
+![Importers](/Importers.jpg)  
 
 
 _Note: The images were generated using ArcGIS, and this code does not contain the steps for this._
